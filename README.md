@@ -16,6 +16,23 @@ A menu-driven C++ console application for booking movie tickets in a cinema.
 * Booking cancellation
 * Seats become available after cancellation
 
+## Demo Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### Movie List
+![Movie List](screenshots/shows-and-movies.png)
+
+### Seat Layout
+![Seat Layout](screenshots/seat-layout.png)
+
+### Successful Booking
+![Successful Booking](screenshots/successful-booking.png)
+
+### Booking Cancellation
+![Booking Cancellation](screenshots/cancellation.png)
+
 ## Seat Pricing
 
 | Seat Type | Price |
